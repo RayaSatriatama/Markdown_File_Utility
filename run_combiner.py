@@ -33,8 +33,8 @@ def load_replacements(json_file):
 if __name__ == "__main__":
     try:
         # Define the input folder containing the markdown files
-        input_folder = r'D:\Projects\Programming_Projects\Markdown_File_Merging\Separate_files'
-        output_folder = r'D:\Projects\Programming_Projects\Markdown_File_Merging\Result'
+        input_folder = r'Your_Path'
+        output_folder = r'Your_Path'
         output_file = 'combined_result.md'
         separator = "\n\n---\n\n"
         sort_order = 'asc'
